@@ -1,0 +1,86 @@
+.container{
+    display: flex;
+    background-color: aqua;
+    flex-wrap: wrap;
+}
+.container div{
+    background-color: beige;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    
+}
+#a{
+    background-color: rgb(201, 155, 155);
+}
+#b{
+background-color: blanchedalmond;
+}
+#c{
+    background-color: brown;
+}
+#d{
+    background-color: chartreuse;
+}
+#e{
+    background-color: chocolate;
+}
+#f{
+    background-color: cornsilk;
+}
+#g{
+    background-color: cyan;
+}
+#h{
+    background-color: darkblue;
+}
+#i{background-color: darkgreen;}
+#j{
+    background-color: darkmagenta;
+}
+#k{
+    background-color: darkorange;
+}
+#l{background-color: darkred;
+}
+#m{
+    background-color: darkslateblue;
+}
+#n{
+    background-color: darkslategrey;
+}
+#o{
+    background-color: darkviolet;
+}
+#p{
+    background-color: darkviolet;
+}
+#q{
+    background-color: deepskyblue;
+}
+#r{
+    background-color: deepskyblue;
+}
+#s{
+    background-color: fuchsia;
+}
+#t{
+    background-color: gold;
+}
+#v{background-color: green;
+}
+#w{
+    background-color: hotpink;
+}
+#x{
+    background-color: indianred;
+}
+#y{
+    background-color: indigo;
+}
+#z{
+    background-color: ivory;
+}
